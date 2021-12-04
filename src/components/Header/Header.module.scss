@@ -1,0 +1,14 @@
+@import './../../styles/variables.scss';
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    padding-top: 30px;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 500;
+    font-size: 35px;
+    color: aliceblue;
+
+}
